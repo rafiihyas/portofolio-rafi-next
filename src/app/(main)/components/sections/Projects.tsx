@@ -10,7 +10,7 @@ export default function Projects() {
     >
       <div className="flex items-center space-x-3 text-4xl md:text-[50px]">
         <h1 className="font-semibold text-foreground">Selected</h1>
-        <span className="font-reenie font-normal text-primary">Project</span>
+        <span className="font-reenie font-normal text-kreafi-2">Project</span>
       </div>
 
       <div className="flex flex-col lg:flex-row gap-4 w-full h-auto lg:h-[700px]">
