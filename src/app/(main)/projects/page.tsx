@@ -14,9 +14,9 @@ export default function ProjectsPage() {
           <h1 className="font-semibold text-kreafi-2">All</h1>
           <span className="font-reenie font-normal text-kreafi-2">Projects</span>
         </div>
-        <p className="font-extralight text-lg text-foreground/80 max-w-[600px]">
+        {/* <p className="font-extralight text-lg text-foreground/80 max-w-[600px]">
           Kumpulan eksplorasi desain dan pengembangan kode. Dari antarmuka pengguna hingga logika sistem yang kompleks.
-        </p>
+        </p> */}
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
