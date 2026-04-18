@@ -22,9 +22,14 @@ export default function Hero() {
           Frontend Developer & Graphic Designer berbasis di Makassar.
         </p>
         <div className="flex space-x-4 pt-2 items-start w-full">
-          <Button className="bg-kreafi-1 hover:bg-kreafi-1/90 text-kreafi-2 text-sm font-semibold shadow px-6">
-            Download CV
-          </Button>
+          <a 
+        href="/assets/CV_Rafi_Ihya_Syampratama.pdf" 
+        download="CV_Rafi_Ihya_Syampratama.pdf"     
+      >
+        <Button className="bg-kreafi-1 hover:bg-kreafi-1/90 text-kreafi-2 text-sm font-semibold shadow px-6">
+          Download CV
+        </Button>
+      </a>
           <Button
             variant="outline"
             className="border-line text-kreafi-2 text-sm px-6"
