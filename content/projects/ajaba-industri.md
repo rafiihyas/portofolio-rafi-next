@@ -2,7 +2,7 @@
 title: "ERP Produksi Ajaba Industri"
 slug: "erp-ajaba-industri"
 date: "2024-10-01"
-image: "/assets/mockup-so.svg"
+image: "/assets/box-projects.svg"
 tags: ["Next.js", "Tailwind CSS", "ERP System", "Finance"]
 description: "Platform manajemen produksi end-to-end terintegrasi untuk industri konveksi, mencakup supply chain, produksi, hingga keuangan."
 ---

@@ -2,7 +2,7 @@
 title: "Sistem Billing TV Kabel"
 slug: "billing-tv-kabel"
 date: "2024-08-01"
-image: "/assets/box-stack.svg"
+image: "/assets/box-projects.svg"
 tags: ["Laravel", "Tailwind CSS", "Dashboard", "Billing"]
 description: "Aplikasi manajemen pelanggan dan tagihan TV kabel yang dilengkapi dengan multi-role dashboard untuk berbagai divisi kerja."
 ---

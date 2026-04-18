@@ -2,7 +2,7 @@
 title: "Sistem Informasi Desa Terpadu"
 slug: "sistem-informasi-desa"
 date: "2023-11-01"
-image: "/assets/mockup-so.svg"
+image: "/assets/box-projects.svg"
 tags: ["Next.js", "Tailwind CSS", "Public Service"]
 description: "Portal digital interaktif untuk transparansi informasi desa dan pelayanan administrasi warga secara mandiri."
 ---

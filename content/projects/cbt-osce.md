@@ -2,7 +2,7 @@
 title: "Platform Ujian CBT & OSCE"
 slug: "cbt-osce-platform"
 date: "2024-12-01"
-image: "/assets/color.svg"
+image: "/assets/box-projects.svg"
 tags: ["Vue.js", "Nuxt.js", "Tailwind CSS", "Education"]
 description: "Sistem ujian Computer Based Test (CBT) dan Objective Structured Clinical Examination (OSCE) dengan antarmuka yang real-time dan stabil."
 ---
