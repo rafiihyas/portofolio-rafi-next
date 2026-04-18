@@ -39,7 +39,7 @@ export default function Journey() {
 ];
 
   return (
-    <section className="flex flex-col justify-center px-6 py-20 md:px-12 lg:px-24 xl:px-52 gap-12 bg-page">
+    <section className="flex flex-col justify-center px-6 py-28 md:px-12 lg:px-24 xl:px-52 gap-12 bg-page">
       <div className="flex items-center space-x-3 text-4xl md:text-[50px]">
         <h1 className="font-semibold text-foreground">My</h1>
         <span className="font-reenie font-normal text-kreafi-2">Journey</span>
@@ -48,7 +48,6 @@ export default function Journey() {
       <div className="relative border-l border-gray/50 ml-4 md:ml-6 space-y-12">
         {journeys.map((item, index) => (
           <div key={index} className="relative pl-8 md:pl-12">
-            {/* Dot Timeline */}
             <div className="absolute -left-[9px] top-1 h-4 w-4 rounded-full bg-kreafi-1 border-4 border-page"></div>
             
             <div className="flex flex-col space-y-2">

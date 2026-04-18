@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Projects() {
   return (
@@ -54,7 +55,7 @@ export default function Projects() {
                   className="object-cover"
                 />
                 <div className="absolute inset-0 z-20 flex items-end justify-end p-5">
-                  <div className="font-semibold text-kreafi-2 space-x-3 flex items-center bg-white/20 backdrop-blur-sm p-2 pr-4 rounded-full">
+                  <Link href="/projects" className="font-semibold text-kreafi-2 space-x-3 flex items-center bg-white/20 backdrop-blur-sm p-2 pr-4 rounded-full">
                     <span className="ml-2">My Projects</span>
                     <Button
                       size="icon"
@@ -62,7 +63,7 @@ export default function Projects() {
                     >
                       <ArrowRight className="text-kreafi-2 w-4 h-4" />
                     </Button>
-                  </div>
+                  </Link>
                 </div>
               </div>
             </div>
